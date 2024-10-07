@@ -1,4 +1,4 @@
-        const riviNappi = document.getElementById('RiviNappi');
+        const riviNappi = document.getElementById('riviNappi');
         const jokeriRivit = document.getElementById('jokeriRiviLaskuri');
         const riviLaskuri = document.getElementById('riviLaskuri');
 
